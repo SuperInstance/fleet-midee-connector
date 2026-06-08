@@ -1,21 +1,23 @@
-# 🎥 fleet-midee-connector
+# 🎥 midee-connector|Browser MIDI visualizer that records MP4|node lib/midee-bridge.js path/to/file.mid#→ Generates render.html that loads Midee from CDN#Lag-free in-browser visualization. Records performances as MP4.#**Next
 
-> *Bridge between fleet MIDI output and the Midee browser visualizer*
+**** [visualizer](https://github.com/SuperInstance/fleet-midi-visualizer)**
 
-Midee is a browser-based MIDI visualizer (github.com/aayushdutt/midee) that can record performances as MP4 video. This connector takes our fleet MIDI and opens it ready for visualization + recording.
+---
 
-## Quick Start
+## Wait, show me
 
 ```bash
-node lib/midee-bridge.js path/to/file.mid
-# Opens ./render.html in the browser with Midee loaded
+** [visualizer](https://github.com/SuperInstance/fleet-midi-visualizer)
 ```
 
-## Architecture
+** [visualizer](https://github.com/SuperInstance/fleet-midi-visualizer)
 
-```
-Our MIDI → Midee Bridge → HTML page → Midee CDN → Visualizer → MP4 Export
-```
+---
 
-## Ensign: Flicker — Fleet Visual Recorder
-Summon: `/ensign flicker visualize path/to/file.mid`
+## What's happening
+
+** [visualizer](https://github.com/SuperInstance/fleet-midi-visualizer)
+
+---
+
+** [visualizer](https://github.com/SuperInstance/fleet-midi-visualizer)
